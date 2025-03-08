@@ -38,7 +38,7 @@ TitanNet is a robust GUI based Python-based network stress testing tool designed
 1.  **Clone the repository:**
 
     ```
-    git clone [https://github.com/wyind/TitanNet.git](https://www.google.com/search?q=https://github.com/wyind/TitanNet.git)
+    git clone https://github.com/wyind/TitanNet.git
     cd TitanNet
     ```
 
