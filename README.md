@@ -22,6 +22,17 @@ TitanNet is a robust GUI based Python-based network stress testing tool designed
 * **Graphical User Interface (GUI):** (Optional, if you have one) Easy to use GUI built with customtkinter and tkinter.
 * **Detailed Reporting:** Generate comprehensive reports of test results.
 
+## To-Do
+
+❌ | **TCP Flooding**
+❌ | **UDP Flooding**
+❌ | **Packet Generation**
+✅ | **Pinging Hostnames**
+✅ | **DNS Lookup**
+✅ | **Trace Routes**
+
+*Please make a pull request for features you would like added!*
+
 ## Installation
 
 1.  **Clone the repository:**
