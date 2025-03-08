@@ -37,16 +37,16 @@ TitanNet is a robust GUI based Python-based network stress testing tool designed
 
 1.  **Clone the repository:**
 
-    ```bash
+    ```
     git clone [https://github.com/wyind/TitanNet.git](https://www.google.com/search?q=https://github.com/wyind/TitanNet.git)
     cd TitanNet
     ```
 
 2.  **Install dependencies:**
 
-    `bash`
-    ```pip3 install -r requirements.txt```
-or ```pip install -r requirements.txt```
+    
+   ``pip3 install -r requirements.txt
+or pip install -r requirements.txt``
 
 ## Usage
 
