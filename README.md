@@ -6,7 +6,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/wyind/TitanNet.svg?style=social&label=Stars)](https://github.com/wyind/TitanNet)
 
 <p align="center">
-  <img src="https://i.ibb.co/xttwrdtS/Control-V-1.png" alt="Titannet">
+  <img src="https://i.ibb.co/ym4Ty3Cx/TitanNet.png" alt="Titannet">
 </p>
 
 TitanNet is a robust GUI based Python-based network stress testing tool designed to evaluate the resilience and performance of your network infrastructure. It provides a comprehensive suite of testing capabilities, allowing you to simulate various network load scenarios and identify potential bottlenecks.
