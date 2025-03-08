@@ -56,5 +56,5 @@ or pip install -r requirements.txt``
 python3 titannet.py
 
 **For Windows:**
-```Run the following command, or open the .py file in the folder.
-py titannet.py```
+Run the following command, or open the .py file in the folder.
+py titannet.py
