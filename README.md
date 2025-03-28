@@ -24,9 +24,9 @@ TitanNet is a robust GUI based Python-based network stress testing tool designed
 
 ## To-Do
 
-❌ | **TCP Flooding**
-❌ | **UDP Flooding**
-❌ | **Packet Generation**
+✅ | **TCP Flooding**
+✅ | **UDP Flooding**
+✅ | **Packet Generation**
 ✅ | **Pinging Hostnames**
 ✅ | **DNS Lookup**
 ✅ | **Trace Routes**
@@ -47,6 +47,9 @@ TitanNet is a robust GUI based Python-based network stress testing tool designed
     
    ``pip3 install -r requirements.txt
 or pip install -r requirements.txt``
+
+3. **LINUX ONLY**
+   ``Copy the repo and run the .sh file. remember to chmod +x the file first!``
 
 ## Usage
 
