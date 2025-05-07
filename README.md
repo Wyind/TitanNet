@@ -35,6 +35,8 @@ TitanNet is a robust GUI based Python-based network stress testing tool designed
 
 ## Installation
 
+# WARNING: This Requires a libpcap Provider. Before running, please install wireshark, or npcap. This program will not run with a libpcap provider, so please do not make an issue about it.
+
 1.  **Clone the repository:**
 
     ```
@@ -48,9 +50,6 @@ TitanNet is a robust GUI based Python-based network stress testing tool designed
    ``pip3 install -r requirements.txt
 or pip install -r requirements.txt``
 
-3. **LINUX ONLY**
-   ``Copy the repo and run the .sh file. remember to chmod +x the file first!``
-
 ## Usage
 
 **Command-Line Interface (CLI):**
@@ -59,5 +58,5 @@ or pip install -r requirements.txt``
 python3 titannet.py
 
 **For Windows:**
-Run the following command, or open the .exe (or the .py file, if you want) file in the folder.
+Run the following command, or open the .exe in the releases tab (or the .py file, if you want) file in the folder.
 py titannet.py
